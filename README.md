@@ -1,16 +1,7 @@
-# bmi_app
+BMI Calculator
+This app will accurately calculate your BMI and tell your weight category accordingly
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To Run this app follow these steps:
+  1> Clone the project into your Android Studio
+  2> Get Dependencies in android studio
+  3> Install the APK and run the app
